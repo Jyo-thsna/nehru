@@ -5,7 +5,7 @@ text-align:center;
 }
 #image{
   width:30%;
-  border:3px outset blue;
+  border:3px solid blue;
 }
 
 #desc{
