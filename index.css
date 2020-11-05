@@ -7,6 +7,7 @@ text-align:center;
 }
 
 #desc{
+  text-align:justify;
 background-color:black;
 color:white;
 font-style:italic;
