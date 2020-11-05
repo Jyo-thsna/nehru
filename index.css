@@ -4,10 +4,13 @@ text-align:center;
   color:blue;
 }
 #image{
+  width:30%;
+  border:3px outset blue;
 }
 
 #desc{
   text-align:justify;
+  width:60%;
 background-color:black;
 color:white;
 font-style:italic;
