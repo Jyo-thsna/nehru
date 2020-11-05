@@ -3,3 +3,13 @@ text-align:center;
   height:10px;
   color:blue;
 }
+#image{
+}
+
+#desc{
+background-color:black;
+color:white;
+font-style:italic;
+font-weight:bold;
+font-size:14px;
+}
