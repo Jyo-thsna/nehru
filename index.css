@@ -1,11 +1,11 @@
 #main{
 text-align:center;
   height:10px;
-  color:blue;
+  color:#cc0099;
 }
 #image{
   width:30%;
-  border:3px solid blue;
+  border:3px solid #990099;
 }
 
 #desc{
